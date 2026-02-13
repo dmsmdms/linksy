@@ -1,3 +1,0 @@
-Telegram Bot
-1. Настройки бота в BotFather
-
